@@ -1,0 +1,16 @@
+,Measurement,,,
+A,0,,,
+B,0,,,
+C,,INPUT,,
+D,0,,,
+TREE HEIGHT,0,,,
+,,,Angles,
+e,,INPUT,0,in radians
+f,,INPUT,0,in radians
+Total angle,0,,0,in radians
+,,,,
+,,,,
+INPUTS,,,,
+C,distance from observer's eye to bottom of tree,,,
+e,angle to top of tree,,,
+f,angle to bottom of tree,,,
